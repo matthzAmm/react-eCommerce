@@ -1,0 +1,51 @@
+.navBarMain{
+
+    background-color: rgb(27, 27, 27);
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    width: 100%;
+
+}
+
+
+.list{
+
+    display: flex;
+    list-style: none;
+    height: 50px;
+}
+
+
+.navBarMain h1 {
+
+    font-family: sans-serif;
+    margin-left: 20px;
+    align-self: center;
+}
+
+.item{
+    font-family: sans-serif;
+    margin-right: 2em;
+    font-size: 20px;
+    align-self: center;
+    
+}
+
+.subDiv{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+
+.text{
+    
+    margin-top: 20px;
+    color: gainsboro;
+}
+
+.link{
+    color: gainsboro;
+    text-decoration: none;
+}

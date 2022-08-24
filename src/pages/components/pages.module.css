@@ -1,0 +1,70 @@
+
+h1, h3, p{
+    color: rgb(31, 31, 31);
+    text-align: justify;
+}
+
+.mainImg{
+    height: 250px;
+    width: 300px;
+    box-sizing: border-box;
+    border: 2px inset rgb(31, 31, 31);
+    margin-right: 10px;
+}
+
+.homeImgDiv h3, .homeImgDiv h5{
+    margin-left: 10px;
+    margin-top: 7px;
+    margin-bottom: 2px;
+    color: rgb(31, 31, 31);
+    
+
+}
+
+.mainDivContato{
+    margin: 20px;
+    height: 600px;
+}
+
+.empresaImg{
+    width: 500px;
+    height: 300px;
+    margin-left: 40px;
+}
+
+.contactDiv{
+    font-size: 18px;
+    margin-top: 40px;
+}
+
+.mainDivContato img{
+    height: 200px;
+    width: 300px;
+}
+
+.homeImgDiv{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.mainDiv{
+    height: 38vh;
+}
+
+
+.contentHome{
+    margin: 20px;
+}
+
+.contentHome h1, .contentHome p{
+    color: rgb(31, 31, 31);
+}
+
+.itemDiv{
+    cursor: pointer;
+}
+
+.contentEmpresa{
+    width: 600px;
+    margin: 20px;
+}

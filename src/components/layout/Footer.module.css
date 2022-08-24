@@ -1,0 +1,34 @@
+*{
+    color: gainsboro;
+}
+.mainFooter{
+
+    background-color: rgb(27, 27, 27);
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+
+
+}
+
+.social_list{
+    
+    display: flex;
+    height: 50px;
+    align-items: center;
+    list-style: none;
+    
+}
+
+.mainFooter ul li{
+    margin: 0 5em;
+
+}
+
+.mainFooter ul svg{
+    font-size: 2em;
+
+    cursor: pointer;
+    
+}
